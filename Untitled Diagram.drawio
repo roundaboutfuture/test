@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-02T09:43:02.271Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="BkfdmlsNAwVbKTFcyiKk" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-02T12:30:26.892Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="G1e53h9_IYOqHxWGhX_A" version="16.1.2" type="github">
   <diagram id="rGSmb_pIZY3zPX9j6uLZ" name="Page-1">
-    <mxGraphModel dx="1353" dy="740" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1593" dy="740" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -400,6 +400,27 @@
         </mxCell>
         <mxCell id="Mgyk64NdSJGYaR96-P3A-115" value="点击还书按钮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="211" y="1661" width="82" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="Mgyk64NdSJGYaR96-P3A-116" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="166" y="2101" width="245" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="Mgyk64NdSJGYaR96-P3A-117" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="162" y="2176" width="192" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="Mgyk64NdSJGYaR96-P3A-118" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientDirection=north;gradientColor=#ffa500;shadow=1;spacingTop=0;perimeterSpacing=20;portConstraintRotation=0;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="142" y="1801" width="436" height="237" as="geometry" />
+        </mxCell>
+        <mxCell id="Mgyk64NdSJGYaR96-P3A-119" value="Nav.jsp" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="147" y="1807" width="416" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="Mgyk64NdSJGYaR96-P3A-121" value="Frame.jsp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="324" y="2019" width="63" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="Mgyk64NdSJGYaR96-P3A-122" value="Navleft.jsp" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="149" y="1863" width="67" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="Mgyk64NdSJGYaR96-P3A-123" value="内容根据左侧按钮调整的jsp页面" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="234" y="1865" width="336" height="157" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
